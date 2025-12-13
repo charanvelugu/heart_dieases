@@ -1,0 +1,27 @@
+# Core Dependencies (Python 3.13 compatible)
+streamlit
+pandas
+numpy
+
+# Machine Learning
+scikit-learn
+xgboost
+imbalanced-learn
+
+# OCR & PDF Processing
+pytesseract
+Pillow
+PyMuPDF
+pdf2image
+
+# LLM Integration
+google-generativeai
+
+# Utilities
+python-dotenv
+joblib
+matplotlib
+seaborn
+
+# Optional
+python-pptx
